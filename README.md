@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 💻 我的博客:没有
 - 📫 如何联系我:我也不知道
 - 🔭 我的理想追求:脱单，睡觉
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
   
 ### 我的技能集
 <table><tr><td valign="top" width="32%">
