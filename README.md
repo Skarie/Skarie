@@ -24,8 +24,33 @@ Here are some ideas to get you started:
 - 💻 我的博客:没有
 - 📫 如何联系我:我也不知道
 - 🔭 我的理想追求:脱单，睡觉
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-  
+<picture style="width: 300px; height: 500px;">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Skarie&show_icons=true&theme=dark&hide_border=true&border_radius=10.0&hide_rank"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Skarie&show_icons=true&theme=solarized-light&hide_border=true&border_radius=10.0&hide_rank"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img style="width: 400px; height: 500px;" src="https://github-readme-stats.vercel.app/api?username=Skarie&show_icons=true&theme=solarized-light&hide_border=true&border_radius=10.0&hide_rank" />
+</picture>
+
+<picture > 
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarie&layout=donut&theme=dark&hide_border=true&border_radius=10.0&card_height=400px"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarie&layout=donut&theme=solarized-light&hide_border=true&border_radius=10.0&card_height=400px"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img style="width: 400px; height: 500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarie&layout=donut&theme=solarized-light&hide_border=true&border_radius=10.0&card_height=400px" />
+</picture>
+
+
+
+
 ### 我的技能集
 <table><tr><td valign="top" width="32%">
 
@@ -48,7 +73,7 @@ Here are some ideas to get you started:
 <td valign="top" width="32%">
 
 #### 使用的语言
-![使用语言排名](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
+![使用语言排名](https://github-readme-stats.vercel.app/api/top-langs/?username=Skarie&layout=compact)
 
 </td></tr></table>   
  
