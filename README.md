@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Oh!ON+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-# 到目前为止，已有![访客计数](https://profile-counter.glitch.me/Skarie/count.svg) 次访问
+# _到目前为止，已有![访客计数](https://profile-counter.glitch.me/Skarie/count.svg) 次访问_
 
 ### 你可以从此大概了解我：
 - 🌱 目前正在中国学习
