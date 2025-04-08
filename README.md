@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 -->
 [English](./README.md) | 中文
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Oh!ON+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-# 到目前为止，已有![访客计数](https://profile-counter.glitch.me/xingwangzhe/count.svg) 次访问
+# 到目前为止，已有![访客计数](https://profile-counter.glitch.me/Skarie/count.svg) 次访问
 
 ### 你可以从此大概了解我：
-- 🌱 目前正在东北大学（沈阳）学习
-- 💻 我的博客:[博客](https://xingwangzhe.github.io)
-- 📫 如何联系我: xingwangzhe@outlook.com
-- 🔭 我的理想追求: 计算机图形学、计算机科学、游戏制作
-
+- 🌱 目前正在中国学习
+- 💻 我的博客:没有
+- 📫 如何联系我:我也不知道
+- 🔭 我的理想追求:脱单，睡觉
+  
 ### 我的技能集
 <table><tr><td valign="top" width="32%">
 
@@ -51,6 +51,3 @@ Here are some ideas to get you started:
 
 </td></tr></table>   
  
-### 成就记录
-
-[![Ashutosh的GitHub活动图表](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
