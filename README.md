@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 你可以从此大概了解我：
 - 🌱 目前正在中国学习
-- 💻 我的博客:没有
+- 💻 我的博客:[翊羽不会飞](https://blog.skarie.top)
 - 📫 如何联系我:我也不知道
 - 🔭 我的理想追求:脱单，睡觉
 <picture style="width: 300px; height: 500px;">
