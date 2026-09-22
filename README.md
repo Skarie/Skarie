@@ -3,8 +3,8 @@
 # Skarie
 ## 翊羽不会飞
 
-> 观书以自渡，落笔赴山海。
-> *Reading to find myself, coding to wander the world.*
+观书以自渡，落笔赴山海。
+*Reading to find myself, coding to wander the world.*
 
 [Blog](https://blog.skarie.top)
 
@@ -42,4 +42,3 @@ Python
 </picture>
 </details>
 </div>
-
