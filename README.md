@@ -36,9 +36,9 @@ Python
 <summary>📊 简阅足迹 / Activity</summary>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Skarie&show_icons=true&hide_border=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Skarie&show_icons=true&theme=solarized-light&hide_border=true">
-  <img width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Skarie&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.uuanqin.top/api?username=Skarie&show_icons=true&hide_border=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.uuanqin.top/api?username=Skarie&show_icons=true&hide_border=true&theme=solarized-light">
+  <img width="400" alt="Github Stats" src="https://github-readme-stats.uuanqin.top/api?username=Skarie&show_icons=true&theme=tokyonight">
 </picture>
 </details>
 </div>
